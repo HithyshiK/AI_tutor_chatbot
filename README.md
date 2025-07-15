@@ -4,3 +4,5 @@
 
 # In Anaconda Prompt (same folder as the script):
 # streamlit run pdf_tutor_streamlit.py
+
+<img width="1103" height="457" alt="image" src="https://github.com/user-attachments/assets/2afc4866-be08-401c-9f19-4396e2f8ca9b" />
